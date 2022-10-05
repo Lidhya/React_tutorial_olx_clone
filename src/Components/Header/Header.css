@@ -1,4 +1,5 @@
 .headerParentDiv {
+  top: 0;
   padding: 10px;
   background-color: whitesmoke;
   position: fixed;
@@ -92,9 +93,6 @@
   text-overflow: ellipsis;
   font-weight: bolder;
   margin-right: 5px;
-}
-
-.language svg {
 }
 
 .span {

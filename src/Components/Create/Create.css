@@ -3,12 +3,13 @@
     width: max-content;
     padding: 50px;
     position: absolute;
-    top: 65%;
+    top: 450px;
     left: 50%;
     transform: translate(-50%, -50%);
     border-radius: 6px;
   }
   .input {
+    width: 300px;
     border-top-color: transparent;
     border-left-color: transparent;
     border-right-color: transparent;
